@@ -1,0 +1,16 @@
+﻿[AdvToolBarPager1]
+Coordinates=149,1,107,33
+
+[AdvToolBar1]
+Coordinates=310,56,78,33
+Visible=True
+
+[DoctorPage]
+Coordinates=310,111,64,33
+
+[AdmissionPage]
+Coordinates=0,0,112,33
+
+[NursingPage]
+Coordinates=51,55,64,33
+
